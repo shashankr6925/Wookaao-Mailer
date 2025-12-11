@@ -133,13 +133,12 @@ body {
     transform: translateX(-50%);
     width: 90px;
     height: 90px;
-    background: white;
     border-radius: 25px;
     display: flex;
     align-items: center;
     justify-content: center;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    border: 3px solid #00d2ff;
+
 }
 
 .icon-wrapper img {
@@ -287,3 +286,4 @@ body {
         font-size: 0.85rem;
     }
 }
+
