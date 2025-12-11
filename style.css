@@ -159,7 +159,7 @@ body {
 .card-text {
     font-size: 0.9em;
     color: var(--text-dark);
-    font-family: cursive;
+
 }
 
 .why-choose-us {
@@ -286,4 +286,5 @@ body {
         font-size: 0.85rem;
     }
 }
+
 
